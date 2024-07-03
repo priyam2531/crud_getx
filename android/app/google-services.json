@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177321714240",
+    "project_id": "crudgetx-95eb8",
+    "storage_bucket": "crudgetx-95eb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177321714240:android:e1c28007dbfd05c7d235a5",
+        "android_client_info": {
+          "package_name": "com.example.crud_getx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl3402O9dBSDcKaDJEdt1fXSDSHfF4K6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
