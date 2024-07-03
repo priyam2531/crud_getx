@@ -1,3 +1,4 @@
+import 'package:crud_getx/app/modules/views/pages/api/api_screen.dart';
 import 'package:crud_getx/app/modules/views/pages/auth/otp/otp_screen.dart';
 import 'package:crud_getx/app/modules/views/pages/auth/otp/phoneno_screen.dart';
 import 'package:crud_getx/app/modules/views/pages/database%20firestore/firestore_screen.dart';
@@ -25,7 +26,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-    home:FirestoreScreen(),
+    home:ApiScreen(),
       // (getStorage.read('NUMBERID')!=null)? SignUpScreen():SignUpScreen(),
     );
   }
